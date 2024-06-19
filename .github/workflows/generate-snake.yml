@@ -18,7 +18,7 @@ jobs:
         uses: Platane/snk@v2
         with:
           github_user_name: saideep2000
-          outputs: dist/snake.svg
+          svg_out_path: dist/snake.svg
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5  # Use the latest version compatible with Node.js 20
