@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: saideep2000
+          outputs: dist/snake.svg
+
+      - name: Push the updated SVG
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: "github-actions[bot]"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          message: "Update the contribution grid snake"
+          add: "output/github-contribution-grid-snake.svg"
+          branch: main
