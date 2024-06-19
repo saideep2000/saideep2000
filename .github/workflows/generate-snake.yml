@@ -24,4 +24,11 @@ jobs:
         with:
           commit_message: "Update the contribution grid snake"
           file_pattern: dist/snake.svg
+          
+      - name: Push changes (if any)
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
 
