@@ -27,10 +27,13 @@ jobs:
           commit_message: "Update the contribution grid snake"
           file_pattern: dist/github-contribution-grid-snake.*
           branch: output  # Push to the output branch to avoid cluttering main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: GitHub Pages Deploy
         uses: peaceiris/actions-gh-pages@v3  # Deploy using GitHub Pages
         with:
           publish_dir: dist
+          publish_branch: gh-pages  # Ensure this matches your GitHub Pages settings
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
