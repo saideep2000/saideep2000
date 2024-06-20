@@ -164,8 +164,12 @@
   <img src="https://komarev.com/ghpvc/?username=saideep2000&color=green" alt="Profile Views" />
 </p>
 
-<!-- Footer -->
+<!-- Footer 
 <p align="center">
   <img src="https://github.com/saideep2000/saideep2000/blob/output/github-contribution-grid-snake.svg" alt="github-snake"/>
 </p>
+
+-->
+
+![snake gif](https://github.com/saideep2000/saideep2000/blob/output/github-contribution-grid-snake.svg)
 
