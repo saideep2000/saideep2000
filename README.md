@@ -91,13 +91,9 @@
 
 ### Software Engineer
 **SHIASH | Sep 2021 - Dec 2022**
-- Engineered a robust e-commerce platform using **microservices** and **AWS** cloud solutions.
-- Designed and deployed a **Docker-based CI/CD pipeline**, accelerating delivery processes by **80%**.
 
 ### Software Engineer Intern
 **Sri Sigma Technologies | Jan 2021 - Jun 2021**
-- Developed and optimized **SQL stored procedures** to enhance database performance and query response times.
-- Utilized parallel processing and **Redis caching** to optimize backend performance, significantly reducing data processing times.
 
 
 <h2 align="center">💡 Skills 💡</h2>
