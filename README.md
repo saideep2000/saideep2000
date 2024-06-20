@@ -164,9 +164,9 @@
   <img src="https://komarev.com/ghpvc/?username=saideep2000&color=green" alt="Profile Views" />
 </p>
 
-<!-- Footer 
+<!-- Footer
 <p align="center">
-  <img src="https://github.com/saideep2000/saideep2000/blob/output/github-contribution-grid-snake.svg" alt="github-snake"/>
+  <img src="https://raw.githubusercontent.com/saideep2000/saideep2000/output/github-contribution-grid-snake.svg" alt="github-snake"/>
 </p>
 -->
 
@@ -175,6 +175,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saideep2000/saideep2000/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saideep2000/saideep2000/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 
