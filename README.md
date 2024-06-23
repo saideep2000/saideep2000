@@ -44,11 +44,11 @@
 - Reduced model deployment and update cycles by **30%**.
 
 ### Rivet
-**Java, Spring Boot, React, WebSocket, MySQL, Geolocation** 
+**Python, Django, MySQL, Redis caching, Asynchronous views, Geolocation** 
 [GitHub Repo](https://github.com/saideep2000/dbms_project)
-- Developed an event management platform with **Java** and **Spring Boot** for the backend, and a **React** frontend.
-- Enabled real-time user interactions with **WebSocket** and efficient friend request handling through **RESTful APIs**.
-- Optimized backend operations with **MySQL**, reducing application load times by 60%.
+- Developed an event management platform using **Python** and **Django** for the backend, incorporating **MySQL** for database management and Redis for caching..
+- Reduced application **load times** by 60% through efficient backend operations and caching strategies..
+- Enabled real-time user interactions and **geolocation** features using **WebSocket** and **asynchronous views**, ensuring efficient event updates and user engagement.
 
 
 ### User-Reporting Mobile App
