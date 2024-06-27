@@ -35,6 +35,19 @@
 - Utilized **TypeScript** for safer code development and **Jest** for robust testing, reducing bugs by **25%**.
 - Enhanced real-time user interactions with **Socket.io** and **WebRTC**, coupled with **Redux** for state management.
 
+### Sproute Connect
+**Full Stack, React.js, Spring Boot, Kafka, Redis, Elasticsearch, MySQL, MaterialUI, TypeScript, Jest**  
+[GitHub Repo](https://github.com/saideep2000/sproute-connect)
+- Developed a modern messaging application focusing on real-time, seamless communication between users.
+- Utilized the **React.js** frontend for a responsive and user-friendly interface.
+- Implemented a robust backend with **Spring Boot**, handling **real-time messaging** and secure **user authentication**.
+- Managed **high-throughput message processing** with **Kafka** and **Redis** for caching and real-time message queues.
+- Leveraged **Elasticsearch** for powerful search functionality, enabling quick searches for messages and users.
+- Utilized **MySQL** for persistent storage, ensuring comprehensive user profiles and message history.
+- Employed **TypeScript** for type-safe code and **Jest** for testing, reducing potential bugs by **20%**.
+- Enhanced user interactions with **WebSockets** for real-time updates and **REST API** for various operations.
+
+
 ### Facial Emotion Recognition System
 **MLOps, TensorFlow, PyTorch, Flask, DVC, Airflow, GitHub Actions** 
 [GitHub Repo](https://github.com/saideep2000/Emotion-recognition-react-web-app) 
