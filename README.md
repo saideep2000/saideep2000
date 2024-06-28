@@ -48,15 +48,15 @@
 - Enhanced user interactions with **WebSockets** for real-time updates and **REST API** for various operations.
 
 
-### Facial Emotion Recognition System
+<!-- ### Facial Emotion Recognition System
 **MLOps, TensorFlow, PyTorch, Flask, DVC, Airflow, GitHub Actions** 
 [GitHub Repo](https://github.com/saideep2000/Emotion-recognition-react-web-app) 
 | [App](https://emotionrecognitionmachinelearning.netlify.app/)
 - Built a facial emotion recognition system using **TensorFlow** and **PyTorch**.
 - Designed an MLOps pipeline with **DVC**, **Airflow**, and **GitHub Actions**.
-- Reduced model deployment and update cycles by **30%**.
+- Reduced model deployment and update cycles by **30%**. -->
 
-### Rivet
+<!-- ### Rivet
 **Python, Django, MySQL, Redis caching, Asynchronous views, Geolocation** 
 [GitHub Repo](https://github.com/saideep2000/dbms_project)
 - Developed an event management platform using **Python** and **Django** for the backend, incorporating **MySQL** for database management and Redis for caching..
@@ -84,7 +84,7 @@
 | [App](https://saideepsamineni.netlify.app/)
 - Crafted a responsive web application featuring **CSS snap scroll**, **React Framer Motion** animations, and **SVG effects**.
 - Built a responsive navbar, animated sidebar, and implemented smooth scroll and parallax effects across various sections.
-- Integrated email functionality and ensured mobile responsiveness, concluding with app deployment to shared hosting.
+- Integrated email functionality and ensured mobile responsiveness, concluding with app deployment to shared hosting. -->
 
 
 <h2 align="center">🌐 Connect with Me 🌐</h2>
