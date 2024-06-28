@@ -28,12 +28,13 @@
 <h2 align="center">📂 Projects 📂</h2>
 
 ### Caption Craft
-**Full Stack, GenAI, React.js, Node.js, MongoDB, MaterialUI, Express, TypeScript, Jest, Docker, helm, Kubernetes**
+**Full Stack, GenAI, React.js, Node.js, MongoDB, MaterialUI, Express, Socket.io, Jest, Docker, helm, Kubernetes**
 [GitHub Repo](https://github.com/saideep2000/Caption_Craft)
 - Developed a social networking platform using the **MERN stack**, focusing on creativity and image generation from text. 
 - Implemented over **30+ REST API endpoints** using **Express** and **Node.js**.
-- Utilized **TypeScript** for safer code development and **Jest** for robust testing, reducing bugs by **25%**.
-- Enhanced real-time user interactions with **Socket.io** and **WebRTC**, coupled with **Redux** for state management.
+- Leveraged **Kubernetes** for container orchestration and management, ensuring high availability and scalability.
+- Enhanced real-time user interactions with **Socket.io**, coupled with **Redux** for state management.
+
 
 ### Sproute Connect
 **Full Stack, React.js, Spring Boot, Kafka, Redis, Elasticsearch, MySQL, MaterialUI, TypeScript, Jest, Docker, helm, Kubernetes**
