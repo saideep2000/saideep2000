@@ -104,10 +104,10 @@
 - Technologies: **React, TypeScript, Next.js, Jest, Stryker**
 
 ### Software Engineer
-**SHIASH | Sep 2021 - Dec 2022**
+**SWAPT | Aug 2024 - Dec 2024**
 
-### Software Engineer Intern
-**Sri Sigma Technologies | Jan 2021 - Jun 2021**
+### Software Engineer
+**SHIASH | May 2021 - Dec 2022**
 
 
 <h2 align="center">💡 Skills 💡</h2>
