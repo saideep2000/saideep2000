@@ -25,7 +25,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saideep2000&theme=default" alt="Repos per Language" />
 </p>
 
-<h2 align="center">📂 Projects 📂</h2>
+<!-- <h2 align="center">📂 Projects 📂</h2>
 
 ### Caption Craft
 **Full Stack, GenAI, React.js, Node.js, MongoDB, MaterialUI, Express, Socket.io, Jest, Docker, helm, Kubernetes**
@@ -96,7 +96,7 @@
   <a href="https://saideepsamineni.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
-<h2 align="center">💼 Experience 💼</h2>
+<!-- <h2 align="center">💼 Experience 💼</h2>
 
 ### Graduate Teaching Assistant - Software Engineering
 **Khoury College of Computer Science | Northeastern University | Jan 2024 - May 2024**
@@ -107,7 +107,7 @@
 **SWAPT | Aug 2024 - Dec 2024**
 
 ### Software Engineer
-**SHIASH | May 2021 - Dec 2022**
+**SHIASH | May 2021 - Dec 2022** -->
 
 
 <h2 align="center">💡 Skills 💡</h2>
