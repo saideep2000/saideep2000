@@ -12,7 +12,7 @@
 </p>
 
 - 👋 Hi, I’m **Saideep Samineni**, currently pursuing a **Master's in Computer Science** at **Northeastern University, Boston**.
-- 👀 With over **2 years of experience** as a **Software Engineer**, I specialize in developing scalable, efficient cloud-based solutions using technologies such as **Python, Flask, React, Node.js, AirFlow, Matplotlib, Docker, Kubernetes, and AWS**.
+- 👀 With over **2 years of experience** as a **Software Engineer**, I specialize in developing scalable, efficient cloud-based solutions using technologies such as **Python, React, Node.js, Java, AirFlow, Docker, Kubernetes, and AWS**.
 - 💞️ I am passionate about solving real-world problems by creating and automating applications that enhance performance and save time.
 - 🌱 Currently, I am focusing on building a scalable and automated social media sharable image generator using **GenAI** and **MLOps**, leveraging the **MERN Stack** and **AWS**.
 - 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/saideep-samineni/) | [Email](mailto:samineni.sa@northeastern.edu)
